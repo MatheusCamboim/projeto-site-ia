@@ -1,57 +1,6 @@
+<div style="background-color: white;">
+<img src="https://yt3.googleusercontent.com/ytc/APkrFKZtJSrGBhxpyudcaj_h6KJ88Z-n2DG82U72BeDjnw=s900-c-k-c0x00ffffff-no-rj" alt="Gif" style="width:250px;height:250px;">
 
-<div style="background-color:">
-<p>
-<!DOCTYPE html>
-    <html>
-    <head>
-    <style>
-        body {
-        background-image: url();
-        background-size: ; 
-        background-attachment:;
-        background-repeat: ;
-        color : Black ; 
-    }
 
-    .content {
-        padding: 20px;
-        text-align:center;
-        background-color: rgba(0, 0 ,0, 0.5); /
-    }
-    </style>
-    </head>
-    <body>
 
-    <div class="content">
-    <p>
-    <h1 style="color:White;">FESTIVAL MADA</p></h1>
-        <p><h3>Para nunca esquecer!</h3></p>
-        </div>
-
-    </body>
-    </html>
-</p>
-</div>
-<p>
-    <!DOCTYPE html>
-    <html>
-    <head>
-    <style>
-    .center {
-        text-align: center;
-    }
-    </style>
-    </head>
-    </body>
-
-    <div class="center">
-        <p><h1></h1></p>
-        </div>
-
-    </body>
-    </html>
-    
-    
-    
-</p>
 </div>
