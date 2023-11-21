@@ -1,14 +1,4 @@
 
+        <h1>Quem somos?</h1>
+        <h5>Somos um grupo de estudantes do curso de ciência da computação da faculdade <a href="https://www.unipe.edu.br/" target="_blank">unipê</a> que  estamos desenvolvendo um blog sobre inteligência artificial. Aqui disponibilizamos alguns dos nossos conhecimentos sobre a própria inteligência artificial como por exemplo a machine learning  e o deep learning, ainda estamos em desenvolvimento, então muito mais conhecimento e pesquisas sobre IA estão por vir, cadastre-se <a href="?page=novo" target="_blank">aqui</a> para receber todas as novidades do blog!!</h5>
 
-
-
-
-
-
-<p>
-    
-<h1 style="background-color:rgba(0, 0 ,0, 0.5);"></h1><br>
-
-<h3 style="background-color:rgba(0, 0 ,0, 0.5);">Somos apaixonados pelo ritmo e pela energia do trap. Nosso evento é o epicentro da cultura trap na cidade. Reunimos artistas renomados, entusiastas da música e amantes da cena urbana para celebrar o melhor do trap. Prepare-se para uma noite de batidas poderosas, performances incríveis e uma atmosfera eletrizante.</h3>
-
-</p>
